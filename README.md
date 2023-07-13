@@ -5,9 +5,8 @@
 - 📫 You can contact me on manantsoa.wisdom@gmail.com
 
   
-  <style>
-        .libutton {
-          display: flex;
+  
+<a style="display: flex;
           flex-direction: column;
           justify-content: center;
           padding: 7px;
@@ -19,10 +18,7 @@
           height: 32px;
           border-radius: 16px;
           background-color: #0A66C2;
-          font-family: "SF Pro Text", Helvetica, sans-serif;
-        }
-      </style>
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=nathanaël-ravelomanantsoa" target="_blank">Follow on LinkedIn</a>
+          font-family: "SF Pro Text", Helvetica, sans-serif;" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=nathanaël-ravelomanantsoa" target="_blank">Follow on LinkedIn</a>
 
 <!---
 Manantsoa12/Manantsoa12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
